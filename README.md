@@ -3,6 +3,8 @@
 ---
 Welcome to the *New York Times Article Scraper*. This app allows you to scrape articles from the New York Times website (nytimes.com), save articles of interest, and add notes to your saved articles.
 
+This app is deployed to Heroku at: https://salty-thicket-50363.herokuapp.com/
+
 ## How It Works
 - Scrape articles on the front page by clicking the *Scrape Articles* button in the Navbar
 - Once articles are populated, save them by clicking the *Save Articles* button
