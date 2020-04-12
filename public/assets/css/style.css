@@ -1,0 +1,26 @@
+body {
+    background-image: url("/assets/images/background2.jpg");
+    
+}
+
+.jumbotron {
+    background-color: rgba(18, 18, 209, 0.755);
+    color: white;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.deleteNote {
+	display: inline-block;
+}
+
+.previousNotes {
+    display: inline-block;
+    width: 90%
+}
+
+#scrape {
+    margin: 8px 0px;
+}
