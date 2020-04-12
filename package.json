@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Linette Hsu",
+  "author": "Ian Hooper",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
